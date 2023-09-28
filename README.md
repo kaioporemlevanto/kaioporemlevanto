@@ -1,6 +1,4 @@
 ### Hi there 👋
-
-- I’m currently working at Adapti Soluções Web
 <!--
 **kaioporemlevanto/kaioporemlevanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,7 +21,6 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=kaioporemlevanto&
 
 ##
 <div align-itens="center">
-  <img height="150em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaioporemlevanto&theme=vue&hide_border=false" />
   <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaioporemlevanto&forks=true&count_private=true&include_all_commits=true&theme=vue&layout=compact&cache=none" /> 
 </div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
